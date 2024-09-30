@@ -22,9 +22,12 @@ pnpm start
 
 ## Reviews Server
 pip install flask google-play-scraper
+
 python py-server.py
 
 ## Frontend
 cd dashboard
+
 pnpm install
+
 pnpm dev
