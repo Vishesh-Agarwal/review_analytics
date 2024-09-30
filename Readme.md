@@ -10,6 +10,12 @@ Prerequisites:
 ## Backend
 npm install -g pnpm
 pnpm install
+
+### On Linux
+export OPENAI_API_KEY=XXXXX
+
+### On Windows
+$env:OPENAI_API_KEY = "XXXXX"
 pnpm start
 
 
