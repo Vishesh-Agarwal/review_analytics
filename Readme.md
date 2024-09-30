@@ -7,7 +7,7 @@ Prerequisites:
 - Python
 
 
-## Backend
+## Backend (Needs OpenAI API Key)
 npm install -g pnpm
 pnpm install
 
@@ -16,6 +16,7 @@ export OPENAI_API_KEY=XXXXX
 
 ### On Windows
 $env:OPENAI_API_KEY = "XXXXX"
+
 pnpm start
 
 
