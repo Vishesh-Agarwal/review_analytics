@@ -31,3 +31,8 @@ cd dashboard
 pnpm install
 
 pnpm dev
+
+## Demo Site
+https://gvc6drqpgeib.share.zrok.io
+
+Then click on Visit Share
